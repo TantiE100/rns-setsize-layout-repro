@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "RNS setSize repro",
+    "slug": "rns-setsize-layout-repro",
+    "scheme": "rnssetsizerepro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.tantie100.rnssetsizerepro"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tantie100.rnssetsizerepro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
